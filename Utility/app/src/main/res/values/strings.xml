@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Utility</string>
+    <string name="buttonCall">Call</string>
+    <string name="btnSms">SMS</string>
+</resources>
